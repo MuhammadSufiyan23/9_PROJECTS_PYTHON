@@ -1,0 +1,5 @@
+# 8 & 9 Projects Requirements
+
+pandas
+openpyxl
+streamlit
